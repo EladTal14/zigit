@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/zigit/static/css/main.8d0c8ede.chunk.css",
+    "main.js": "/zigit/static/js/main.bb660c11.chunk.js",
+    "main.js.map": "/zigit/static/js/main.bb660c11.chunk.js.map",
+    "runtime-main.js": "/zigit/static/js/runtime-main.7fd21444.js",
+    "runtime-main.js.map": "/zigit/static/js/runtime-main.7fd21444.js.map",
+    "static/js/2.0a7c26f0.chunk.js": "/zigit/static/js/2.0a7c26f0.chunk.js",
+    "static/js/2.0a7c26f0.chunk.js.map": "/zigit/static/js/2.0a7c26f0.chunk.js.map",
+    "static/js/3.6d179325.chunk.js": "/zigit/static/js/3.6d179325.chunk.js",
+    "static/js/3.6d179325.chunk.js.map": "/zigit/static/js/3.6d179325.chunk.js.map",
+    "index.html": "/zigit/index.html",
+    "static/css/main.8d0c8ede.chunk.css.map": "/zigit/static/css/main.8d0c8ede.chunk.css.map",
+    "static/js/2.0a7c26f0.chunk.js.LICENSE.txt": "/zigit/static/js/2.0a7c26f0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7fd21444.js",
+    "static/js/2.0a7c26f0.chunk.js",
+    "static/css/main.8d0c8ede.chunk.css",
+    "static/js/main.bb660c11.chunk.js"
+  ]
+}
